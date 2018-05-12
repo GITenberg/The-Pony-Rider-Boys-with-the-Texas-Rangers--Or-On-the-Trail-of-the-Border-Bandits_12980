@@ -1,5 +1,8 @@
 _repo: The-Pony-Rider-Boys-with-the-Texas-Rangers--Or-On-the-Trail-of-the-Border-Bandits_12980
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Patchin, Frank Gee
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1623'
     url: http://www.gutenberg.org/2009/agents/1623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12980#The-Pony-Rider-Boys-with-the-Texas-Rangers--Or-On-the-Trail-of-the-Border-Bandits
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
 identifiers:
